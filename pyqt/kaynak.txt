@@ -1,0 +1,4 @@
+https://coderslegacy.com/python/getting-started-pyqt/
+https://github.com/pyqt/examples
+https://wiki.python.org/moin/PyQt/Tutorials
+
