@@ -4,7 +4,7 @@ from PyQt5.QtWidgets import QDialog, QTextBrowser, QLineEdit, QVBoxLayout, QAppl
 from math import *
 
 class Form(QDialog):
-    def __init(self, parent=None): # hatalı kısım bulundu, init yanlış yazılmış
+    def __init__(self, parent=None): # hatalı kısım bulundu, init yanlış yazılmış
         super(Form, self).__init__(parent)
         self.browser = QTextBrowser()
         self.lineedit = QLineEdit("Bir ifade yazıp Enter tuşuna basın")
@@ -20,12 +20,12 @@ class Form(QDialog):
     def updateUI(self):
         try:
             text = self.lineedit.text()
-            self.browser.append(f"{text} = {eval(text)}")
+            self.browser.append(f"{text} = <b>{eval(text)}</b>")
         except :
             self.browser.append(f"<font color=red>{text} geçersiz</font>")
 
-#if __name__ == '__main__':
-app = QApplication(sys.argv)
-form = Form()
-form.show()
-app.exec_()
+if __name__ == '__main__':
+    app = QApplication(sys.argv)
+    form = Form()
+    form.show()
+    app.exec_()
