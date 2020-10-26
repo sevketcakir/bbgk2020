@@ -17,6 +17,7 @@ class UI(QMainWindow):
         except :
             self.liste.addItem(f"<font color=red>{text} geçersiz</font>")
 
+
 if __name__ == '__main__':
     app = QApplication([])
     pencere = UI()
