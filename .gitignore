@@ -2,3 +2,5 @@ preperation
 venv
 .idea/
 *.mp4
+._*
+.DS_Store
