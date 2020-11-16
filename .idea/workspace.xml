@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcc95d6a-c383-4afa-a001-26da5915903c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/opencv/contour.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv/fonksiyonlar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv/joinimages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv/renkalgila.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv/warp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opencv/colorpicker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opencv/sanalcizim.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opencv/tarayici.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opencv/yuzalgila.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/contour.py" beforeDir="false" afterPath="$PROJECT_DIR$/opencv/contour.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/fonksiyonlar.py" beforeDir="false" afterPath="$PROJECT_DIR$/opencv/fonksiyonlar.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,42 +21,46 @@
     <session id="924398040">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.10" value="4" />
+          <entry key="project.open.time.10" value="5" />
+          <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="gitignore" value="1" />
+          <entry key="gitignore" value="2" />
           <entry key="jpg" value="2" />
           <entry key="png" value="3" />
-          <entry key="py" value="25" />
+          <entry key="py" value="37" />
           <entry key="txt" value="2" />
+          <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="5" />
-          <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="25" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="37" />
+          <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="29" />
-          <entry key="gitignore" value="9" />
-          <entry key="py" value="7213" />
-          <entry key="txt" value="101" />
+          <entry key="gitignore" value="10" />
+          <entry key="py" value="11393" />
+          <entry key="txt" value="126" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="110" />
-          <entry key="Python" value="7242" />
+          <entry key="PLAIN_TEXT" value="136" />
+          <entry key="Python" value="11422" />
         </counts>
       </usages-collector>
     </session>
@@ -62,35 +68,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/opencv/fonksiyonlar.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="42" column="60" selection-start-line="42" selection-start-column="57" selection-end-line="42" selection-end-column="60" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-                <marker date="1604920116010" expanded="true" signature="1540:1545" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/opencv/joinimages.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" column="36" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="36" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/opencv/renkalgila.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="583">
-              <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+            <state relative-caret-position="150">
+              <caret line="6" column="13" lean-forward="true" selection-end-line="37" selection-end-column="22" />
               <folding>
                 <element signature="e#80#90#0" expanded="true" />
                 <marker date="1604918331830" expanded="true" signature="161:172" ph="..." />
@@ -100,67 +81,61 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/opencv/contour.py">
+        <entry file="file://$PROJECT_DIR$/opencv/colorpicker.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+            <state relative-caret-position="696">
+              <caret line="29" column="32" lean-forward="true" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
               <folding>
-                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#80#90#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/opencv/warp.py">
+        <entry file="file://$PROJECT_DIR$/opencv/sanalcizim.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="-323">
+              <caret line="26" column="34" lean-forward="true" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
+                <marker date="1605523345370" expanded="true" signature="980:1094" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/opencv/temelislemler.py">
+        <entry file="file://$PROJECT_DIR$/opencv/tarayici.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="8" column="24" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="24" />
+            <state relative-caret-position="209">
+              <caret line="44" column="45" selection-start-line="44" selection-start-column="45" selection-end-line="44" selection-end-column="45" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
+                <marker date="1605525565740" expanded="true" signature="492:1006" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/opencv/boyutvekirp.py">
+        <entry file="file://$PROJECT_DIR$/opencv/fonksiyonlar.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/opencv/sekillervemetin.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="11" column="86" selection-start-line="11" selection-start-column="86" selection-end-line="11" selection-end-column="86" />
+            <state relative-caret-position="-163">
+              <caret line="37" column="88" lean-forward="true" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="88" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
+                <marker date="1604996924980" expanded="true" signature="1540:1545" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -195,8 +170,6 @@
         <option value="$PROJECT_DIR$/pyqt/todo.py" />
         <option value="$PROJECT_DIR$/opencv/dosyaoku.py" />
         <option value="$PROJECT_DIR$/opencv/videooku.py" />
-        <option value="$PROJECT_DIR$/opencv/kameraoku.py" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/opencv/temelislemler.py" />
         <option value="$PROJECT_DIR$/opencv/boyutvekirp.py" />
         <option value="$PROJECT_DIR$/opencv/sekillervemetin.py" />
@@ -204,8 +177,18 @@
         <option value="$PROJECT_DIR$/opencv/warp.py" />
         <option value="$PROJECT_DIR$/opencv/joinimages.py" />
         <option value="$PROJECT_DIR$/opencv/renkalgila.py" />
-        <option value="$PROJECT_DIR$/opencv/fonksiyonlar.py" />
         <option value="$PROJECT_DIR$/opencv/contour.py" />
+        <option value="$PROJECT_DIR$/opencv/fonksiyonlar.py" />
+        <option value="$PROJECT_DIR$/opencv/yuzalgila.py" />
+        <option value="$PROJECT_DIR$/preperation/opencv/colorpicker.py" />
+        <option value="$PROJECT_DIR$/preperation/opencv/cascadetr.xml" />
+        <option value="$PROJECT_DIR$/preperation/opencv/plate.py" />
+        <option value="$PROJECT_DIR$/preperation/opencv/platevideo.py" />
+        <option value="$PROJECT_DIR$/opencv/kameraoku.py" />
+        <option value="$PROJECT_DIR$/opencv/colorpicker.py" />
+        <option value="$PROJECT_DIR$/opencv/sanalcizim.py" />
+        <option value="$PROJECT_DIR$/opencv/tarayici.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -244,17 +227,6 @@
               <item name="kodlar" type="b2602c69:ProjectViewProjectNode" />
               <item name="kodlar" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="kodlar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kodlar" type="462c0819:PsiDirectoryNode" />
-              <item name="opencv" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kodlar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kodlar" type="462c0819:PsiDirectoryNode" />
-              <item name="opencv" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -264,7 +236,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="kite.configurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/preperation/opencv" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -278,8 +255,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.contour">
-    <configuration name="contour" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.tarayici">
+    <configuration name="colorpicker (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="kodlar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -291,7 +268,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opencv/contour.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opencv/colorpicker.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -300,7 +277,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fonksiyonlar" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="kameraoku" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="kodlar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -312,7 +289,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opencv/fonksiyonlar.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opencv/kameraoku.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -321,7 +298,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="joinimages" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="platevideo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="kodlar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -329,11 +306,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/opencv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/preperation/opencv" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opencv/joinimages.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/preperation/opencv/platevideo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -342,7 +319,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="renkalgila" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sanalcizim" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="kodlar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -354,7 +331,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opencv/renkalgila.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opencv/sanalcizim.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -363,7 +340,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="warp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tarayici" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="kodlar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -375,7 +352,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opencv/warp.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opencv/tarayici.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -385,19 +362,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.warp" />
-      <item itemvalue="Python.joinimages" />
-      <item itemvalue="Python.renkalgila" />
-      <item itemvalue="Python.contour" />
-      <item itemvalue="Python.fonksiyonlar" />
+      <item itemvalue="Python.platevideo" />
+      <item itemvalue="Python.kameraoku" />
+      <item itemvalue="Python.colorpicker (1)" />
+      <item itemvalue="Python.sanalcizim" />
+      <item itemvalue="Python.tarayici" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.contour" />
-        <item itemvalue="Python.fonksiyonlar" />
-        <item itemvalue="Python.renkalgila" />
-        <item itemvalue="Python.joinimages" />
-        <item itemvalue="Python.warp" />
+        <item itemvalue="Python.tarayici" />
+        <item itemvalue="Python.sanalcizim" />
+        <item itemvalue="Python.colorpicker (1)" />
+        <item itemvalue="Python.kameraoku" />
+        <item itemvalue="Python.platevideo" />
       </list>
     </recent_temporary>
   </component>
@@ -412,26 +389,34 @@
       <option name="presentableId" value="Default" />
       <updated>1603100347379</updated>
     </task>
+    <task id="LOCAL-00001" summary="9 Kasım 2020 ders sonrası">
+      <created>1604920732848</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604920732849</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="816" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13389711" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15362932" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32596686" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49964765" weight="0.32596686" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39917126" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32872927" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32876712" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32876712" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5003524" side_tool="true" weight="0.32596686" />
+      <window_info anchor="bottom" id="Python Console" order="10" visible="true" weight="0.32872927" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -449,6 +434,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="9 Kasım 2020 ders sonrası" />
+    <option name="LAST_COMMIT_MESSAGE" value="9 Kasım 2020 ders sonrası" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pyqt/deneme.py" />
@@ -557,6 +546,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/opencv/resources/cards.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opencv/resources/shapes.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opencv/joinimages.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="36" selection-end-line="1" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opencv/resources/haarcascades/haarcascade_frontalface_default.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2748" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opencv/contour.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opencv/warp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opencv/temelislemler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/opencv/videooku.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -564,10 +592,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/opencv/kameraoku.py">
+    <entry file="file://$PROJECT_DIR$/preperation/opencv/cascadetr.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        <state relative-caret-position="411">
+          <caret line="2866" column="17" selection-start-line="2866" selection-start-column="17" selection-end-line="2866" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preperation/opencv/colorpicker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+          <folding>
+            <element signature="e#80#90#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preperation/opencv/plate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preperation/opencv/fonksiyonlar.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opencv/yuzalgila.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -588,78 +643,78 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/preperation/opencv/platevideo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="60">
+          <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/opencv/resources/cards.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opencv/warp.py">
+    <entry file="file://$PROJECT_DIR$/opencv/kameraoku.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opencv/temelislemler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opencv/joinimages.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="36" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opencv/resources/shapes.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opencv/fonksiyonlar.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="42" column="60" selection-start-line="42" selection-start-column="57" selection-end-line="42" selection-end-column="60" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-            <marker date="1604920116010" expanded="true" signature="1540:1545" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opencv/contour.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="288">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/opencv/renkalgila.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="583">
-          <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+        <state relative-caret-position="150">
+          <caret line="6" column="13" lean-forward="true" selection-end-line="37" selection-end-column="22" />
           <folding>
             <element signature="e#80#90#0" expanded="true" />
             <marker date="1604918331830" expanded="true" signature="161:172" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opencv/colorpicker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="29" column="32" lean-forward="true" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+          <folding>
+            <element signature="e#80#90#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opencv/fonksiyonlar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-163">
+          <caret line="37" column="88" lean-forward="true" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="88" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <marker date="1604996924980" expanded="true" signature="1540:1545" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opencv/sanalcizim.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-323">
+          <caret line="26" column="34" lean-forward="true" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <marker date="1605523345370" expanded="true" signature="980:1094" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opencv/tarayici.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="44" column="45" selection-start-line="44" selection-start-column="45" selection-end-line="44" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <marker date="1605525565740" expanded="true" signature="492:1006" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
         </state>
       </provider>
     </entry>
