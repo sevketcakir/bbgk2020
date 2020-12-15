@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcc95d6a-c383-4afa-a001-26da5915903c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pygame/knight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pygame/simple_pygame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pygame/user_input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sqlalc/cookie.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,16 +18,16 @@
     <session id="924398040">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
+          <entry key="project.closed" value="18" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.10" value="5" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.7" value="2" />
-          <entry key="project.open.time.8" value="2" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.open.time.8" value="4" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -32,80 +36,51 @@
           <entry key="gitignore" value="2" />
           <entry key="jpg" value="2" />
           <entry key="json" value="10" />
-          <entry key="png" value="12" />
-          <entry key="py" value="46" />
-          <entry key="txt" value="2" />
+          <entry key="png" value="15" />
+          <entry key="py" value="63" />
+          <entry key="tmx" value="5" />
+          <entry key="tsx" value="1" />
+          <entry key="txt" value="3" />
           <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="14" />
+          <entry key="Image" value="17" />
           <entry key="JSON" value="10" />
-          <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="46" />
+          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="Python" value="63" />
           <entry key="XML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="29" />
+          <entry key="Python Console" value="61" />
           <entry key="gitignore" value="35" />
-          <entry key="py" value="14344" />
-          <entry key="txt" value="126" />
+          <entry key="py" value="17114" />
+          <entry key="txt" value="127" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="161" />
-          <entry key="Python" value="14373" />
+          <entry key="PLAIN_TEXT" value="162" />
+          <entry key="Python" value="17175" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scrapy/ders/ders/spiders/quotes.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scrapy/ders/ders/spiders/books.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="29" column="77" lean-forward="true" selection-start-line="29" selection-start-column="77" selection-end-line="29" selection-end-column="77" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/scrapy/ders/ders/spiders/imdb.py">
+        <entry file="file://$PROJECT_DIR$/sqlalc/cookie.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scrapy/ders/imdb.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4398">
-              <caret line="3" column="701" lean-forward="true" selection-start-line="3" selection-start-column="701" selection-end-line="3" selection-end-column="701" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scrapy/ders/books.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="579" selection-start-line="1" selection-start-column="579" selection-end-line="1" selection-end-column="579" />
+            <state relative-caret-position="260">
+              <caret line="63" column="39" selection-start-line="63" selection-start-column="39" selection-end-line="63" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+                <marker date="1608020018000" expanded="true" signature="1788:2215" ph="..." />
+                <marker date="1608020018000" expanded="true" signature="2235:2274" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -118,6 +93,12 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>base</find>
+      <find>tileset</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -164,6 +145,16 @@
         <option value="$PROJECT_DIR$/scrapy/ders/ders/spiders/quotes.py" />
         <option value="$PROJECT_DIR$/scrapy/ders/ders/spiders/books.py" />
         <option value="$PROJECT_DIR$/scrapy/ders/ders/spiders/imdb.py" />
+        <option value="$PROJECT_DIR$/preperation/pygame/deneme.py" />
+        <option value="$PROJECT_DIR$/pygame/simple_pygame.py" />
+        <option value="$PROJECT_DIR$/pygame/user_input.py" />
+        <option value="$PROJECT_DIR$/pygame/tmx.py" />
+        <option value="$PROJECT_DIR$/preperation/pygame/tmx.py" />
+        <option value="$PROJECT_DIR$/preperation/pygame/tmxdeneme.py" />
+        <option value="$PROJECT_DIR$/preperation/pygame/tmx-master/examples/simpleDemo.py" />
+        <option value="$PROJECT_DIR$/preperation/sqlalchemy/tutorial.txt" />
+        <option value="$PROJECT_DIR$/sqlalchemy/cookie.py" />
+        <option value="$PROJECT_DIR$/sqlalc/cookie.py" />
       </list>
     </option>
   </component>
@@ -195,6 +186,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -205,34 +197,21 @@
             <path>
               <item name="kodlar" type="b2602c69:ProjectViewProjectNode" />
               <item name="kodlar" type="462c0819:PsiDirectoryNode" />
-              <item name="scrapy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kodlar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kodlar" type="462c0819:PsiDirectoryNode" />
-              <item name="scrapy" type="462c0819:PsiDirectoryNode" />
-              <item name="ders" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kodlar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kodlar" type="462c0819:PsiDirectoryNode" />
-              <item name="scrapy" type="462c0819:PsiDirectoryNode" />
-              <item name="ders" type="462c0819:PsiDirectoryNode" />
-              <item name="ders" type="462c0819:PsiDirectoryNode" />
+              <item name="sqlalc" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pygame" />
       <recent name="$PROJECT_DIR$/opencv/resources" />
       <recent name="$PROJECT_DIR$/preperation/opencv" />
     </key>
@@ -249,8 +228,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.plaka">
-    <configuration name="colorpicker (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.cookie">
+    <configuration name="cookie" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kodlar" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sqlalchemy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sqlalchemy/cookie.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kameraoku" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="kodlar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -262,7 +262,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opencv/colorpicker.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opencv/kameraoku.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -271,7 +271,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="plaka" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="simple_pygame" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="kodlar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -279,11 +279,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/opencv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pygame" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opencv/plaka.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pygame/simple_pygame.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -292,7 +292,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="plate" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tmx" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="kodlar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -300,11 +300,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/preperation/opencv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/preperation/pygame" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/preperation/opencv/plate.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/preperation/pygame/tmx.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -313,7 +313,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sanalcizim" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tmxdeneme" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="kodlar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -321,32 +321,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/opencv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/preperation/pygame" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opencv/sanalcizim.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="tarayici" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="kodlar" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/opencv" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opencv/tarayici.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/preperation/pygame/tmxdeneme.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -356,19 +335,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.colorpicker (1)" />
-      <item itemvalue="Python.sanalcizim" />
-      <item itemvalue="Python.tarayici" />
-      <item itemvalue="Python.plaka" />
-      <item itemvalue="Python.plate" />
+      <item itemvalue="Python.simple_pygame" />
+      <item itemvalue="Python.tmxdeneme" />
+      <item itemvalue="Python.tmx" />
+      <item itemvalue="Python.kameraoku" />
+      <item itemvalue="Python.cookie" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.plaka" />
-        <item itemvalue="Python.plate" />
-        <item itemvalue="Python.tarayici" />
-        <item itemvalue="Python.sanalcizim" />
-        <item itemvalue="Python.colorpicker (1)" />
+        <item itemvalue="Python.cookie" />
+        <item itemvalue="Python.kameraoku" />
+        <item itemvalue="Python.tmx" />
+        <item itemvalue="Python.tmxdeneme" />
+        <item itemvalue="Python.simple_pygame" />
       </list>
     </recent_temporary>
   </component>
@@ -395,21 +374,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="811" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49795082" visible="true" weight="0.19168429" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49795082" visible="true" weight="0.13248767" />
       <window_info id="Structure" order="1" sideWeight="0.5020492" side_tool="true" weight="0.15362932" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49964765" weight="0.32596686" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.21961325" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49964765" weight="0.37552157" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3838665" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32872927" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.33936024" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5003524" side_tool="true" weight="0.32596686" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32872927" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.33936024" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5003524" side_tool="true" weight="0.3253012" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.5549374" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -432,136 +412,41 @@
     <MESSAGE value="9 Kasım 2020 ders sonrası" />
     <option name="LAST_COMMIT_MESSAGE" value="9 Kasım 2020 ders sonrası" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/preperation/pygame/tmx.py</url>
+          <line>256</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/preperation/pygame/tmx.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/preperation/pygame/tmx.py</url>
+          <line>88</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>f.read()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/preperation/pyqt/form1ui.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyqt/todo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="58" lean-forward="true" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opencv/resources/lambo.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opencv/resources/lena.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opencv/kaynak.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="62" selection-start-line="1" selection-start-column="62" selection-end-line="1" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opencv/dosyaoku.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opencv/resources/cards.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opencv/resources/shapes.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opencv/joinimages.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="36" selection-end-line="1" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opencv/resources/haarcascades/haarcascade_frontalface_default.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2748" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opencv/contour.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opencv/warp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opencv/temelislemler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opencv/videooku.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="33" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/preperation/opencv/cascadetr.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="2866" column="17" selection-start-line="2866" selection-start-column="17" selection-end-line="2866" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/preperation/opencv/colorpicker.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/preperation/opencv/fonksiyonlar.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opencv/yuzalgila.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opencv/boyutvekirp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opencv/sekillervemetin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11" column="86" selection-start-line="11" selection-start-column="86" selection-end-line="11" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/preperation/opencv/platevideo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opencv/kameraoku.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -592,13 +477,7 @@
     <entry file="file://$PROJECT_DIR$/opencv/resources/plates/Cars331.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file:///usr/local/Cellar/python/3.7.4_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="324" selection-start-line="324" selection-end-line="324" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.4_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/codecs.py" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -606,13 +485,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/cssselect/parser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="563" selection-start-line="563" selection-end-line="563" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/cssselect/parser.py" />
     <entry file="file://$PROJECT_DIR$/preperation/scrapy/books/b.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -700,6 +573,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy/ders/ders/spiders/books.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="77" selection-start-line="29" selection-start-column="77" selection-end-line="29" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preperation/pygame/deneme.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy/ders/ders/spiders/imdb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy/ders/imdb.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="3" column="701" selection-start-line="3" selection-start-column="701" selection-end-line="3" selection-end-column="701" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/scrapy/ders/books.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -707,24 +608,92 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy/ders/ders/spiders/books.py">
+    <entry file="file://$PROJECT_DIR$/preperation/pygame/tmx-master/examples/shoot-em-up.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pygame/knight.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pygame/tmx.py" />
+    <entry file="file://$PROJECT_DIR$/preperation/pygame/tmx-master/examples/floorTile.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.4_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/xml/etree/ElementTree.py" />
+    <entry file="file://$PROJECT_DIR$/preperation/pygame/tmx-master/examples/map.tmx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preperation/pygame/tmx-master/examples/simpleDemo.tmx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preperation/pygame/tmx-master/examples/importer.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preperation/pygame/p2.tmx" />
+    <entry file="file://$PROJECT_DIR$/preperation/pygame/freetileset/png/Tiles/1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preperation/pygame/platform.tsx" />
+    <entry file="file://$PROJECT_DIR$/preperation/pygame/tmx-master/examples/simpleDemo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="29" column="77" lean-forward="true" selection-start-line="29" selection-start-column="77" selection-end-line="29" selection-end-column="77" />
+        <state relative-caret-position="190">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy/ders/imdb.json">
+    <entry file="file://$PROJECT_DIR$/pygame/user_input.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4398">
-          <caret line="3" column="701" lean-forward="true" selection-start-line="3" selection-start-column="701" selection-end-line="3" selection-end-column="701" />
+        <state relative-caret-position="399">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy/ders/ders/spiders/imdb.py">
+    <entry file="file://$PROJECT_DIR$/pygame/simple_pygame.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        <state relative-caret-position="323">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preperation/pygame/chimp.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preperation/pygame/tmxdeneme.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preperation/pygame/tmx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1539">
+          <caret line="88" column="48" selection-start-line="88" selection-start-column="48" selection-end-line="88" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preperation/sqlalchemy/tutorial.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opencv/kameraoku.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sqlalc/cookie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="63" column="39" selection-start-line="63" selection-start-column="39" selection-end-line="63" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+            <marker date="1608020018000" expanded="true" signature="1788:2215" ph="..." />
+            <marker date="1608020018000" expanded="true" signature="2235:2274" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
