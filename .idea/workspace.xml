@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcc95d6a-c383-4afa-a001-26da5915903c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pygame/knight.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pygame/simple_pygame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pygame/user_input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sqlalc/cookie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pygame/platformer/licenses.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,16 +15,16 @@
     <session id="924398040">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="18" />
+          <entry key="project.closed" value="19" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.10" value="5" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.6" value="3" />
-          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.8" value="4" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="20" />
+          <entry key="project.opened" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -36,8 +33,9 @@
           <entry key="gitignore" value="2" />
           <entry key="jpg" value="2" />
           <entry key="json" value="10" />
-          <entry key="png" value="15" />
-          <entry key="py" value="63" />
+          <entry key="md" value="1" />
+          <entry key="png" value="16" />
+          <entry key="py" value="64" />
           <entry key="tmx" value="5" />
           <entry key="tsx" value="1" />
           <entry key="txt" value="3" />
@@ -46,10 +44,11 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="17" />
+          <entry key="Image" value="18" />
           <entry key="JSON" value="10" />
+          <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="14" />
-          <entry key="Python" value="63" />
+          <entry key="Python" value="64" />
           <entry key="XML" value="3" />
         </counts>
       </usages-collector>
@@ -57,30 +56,56 @@
         <counts>
           <entry key="Python Console" value="61" />
           <entry key="gitignore" value="35" />
-          <entry key="py" value="17114" />
+          <entry key="md" value="137" />
+          <entry key="py" value="17174" />
           <entry key="txt" value="127" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="Markdown" value="137" />
           <entry key="PLAIN_TEXT" value="162" />
-          <entry key="Python" value="17175" />
+          <entry key="Python" value="17235" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sqlalc/cookie.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="63" column="39" selection-start-line="63" selection-start-column="39" selection-end-line="63" selection-end-column="39" />
+            <state relative-caret-position="209">
+              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
                 <marker date="1608020018000" expanded="true" signature="1788:2215" ph="..." />
                 <marker date="1608020018000" expanded="true" signature="2235:2274" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pygame/platformer/game.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="141" column="67" selection-start-line="141" selection-start-column="67" selection-end-line="141" selection-end-column="67" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pygame/platformer/licenses.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="285">
+                <caret line="15" selection-start-line="15" selection-end-line="15" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -98,6 +123,7 @@
     <findStrings>
       <find>base</find>
       <find>tileset</find>
+      <find>self.status = 'die</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -155,10 +181,12 @@
         <option value="$PROJECT_DIR$/preperation/sqlalchemy/tutorial.txt" />
         <option value="$PROJECT_DIR$/sqlalchemy/cookie.py" />
         <option value="$PROJECT_DIR$/sqlalc/cookie.py" />
+        <option value="$PROJECT_DIR$/pygame/platformer/game.py" />
+        <option value="$PROJECT_DIR$/pygame/platformer/licenses.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="811" />
@@ -186,7 +214,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -197,12 +224,24 @@
             <path>
               <item name="kodlar" type="b2602c69:ProjectViewProjectNode" />
               <item name="kodlar" type="462c0819:PsiDirectoryNode" />
+              <item name="pygame" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kodlar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kodlar" type="462c0819:PsiDirectoryNode" />
+              <item name="pygame" type="462c0819:PsiDirectoryNode" />
+              <item name="platformer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kodlar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kodlar" type="462c0819:PsiDirectoryNode" />
               <item name="sqlalc" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -228,7 +267,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.cookie">
+  <component name="RunManager" selected="Python.game">
     <configuration name="cookie" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="kodlar" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -250,6 +289,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="game" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kodlar" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pygame/platformer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pygame/platformer/game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="kameraoku" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="kodlar" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -263,27 +323,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opencv/kameraoku.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="simple_pygame" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="kodlar" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pygame" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pygame/simple_pygame.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -335,19 +374,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.simple_pygame" />
       <item itemvalue="Python.tmxdeneme" />
       <item itemvalue="Python.tmx" />
       <item itemvalue="Python.kameraoku" />
       <item itemvalue="Python.cookie" />
+      <item itemvalue="Python.game" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.game" />
         <item itemvalue="Python.cookie" />
         <item itemvalue="Python.kameraoku" />
         <item itemvalue="Python.tmx" />
         <item itemvalue="Python.tmxdeneme" />
-        <item itemvalue="Python.simple_pygame" />
       </list>
     </recent_temporary>
   </component>
@@ -381,7 +420,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49964765" weight="0.37552157" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49964765" visible="true" weight="0.37552157" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3838665" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -443,16 +482,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/preperation/opencv/platevideo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opencv/resources/plates/Cars0.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/opencv/resources/plates/Cars1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -611,9 +640,6 @@
     <entry file="file://$PROJECT_DIR$/preperation/pygame/tmx-master/examples/shoot-em-up.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pygame/knight.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/pygame/tmx.py" />
     <entry file="file://$PROJECT_DIR$/preperation/pygame/tmx-master/examples/floorTile.png">
       <provider selected="true" editor-type-id="images" />
@@ -685,15 +711,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pygame/knight.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/sqlalc/cookie.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="63" column="39" selection-start-line="63" selection-start-column="39" selection-end-line="63" selection-end-column="39" />
+        <state relative-caret-position="209">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
           <folding>
             <element signature="e#0#36#0" expanded="true" />
             <marker date="1608020018000" expanded="true" signature="1788:2215" ph="..." />
             <marker date="1608020018000" expanded="true" signature="2235:2274" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pygame/platformer/game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="141" column="67" selection-start-line="141" selection-start-column="67" selection-end-line="141" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pygame/platformer/licenses.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="285">
+            <caret line="15" selection-start-line="15" selection-end-line="15" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tileset version="1.4" tiledversion="1.4.3" name="lightbandit" tilewidth="32" tileheight="32" tilecount="40" columns="8">
+ <image source="lightbandit.png" width="256" height="160"/>
+ <tile id="0" type="idle"/>
+ <tile id="1" type="idle"/>
+ <tile id="2" type="idle"/>
+ <tile id="3" type="idle"/>
+ <tile id="4" type="combatidle"/>
+ <tile id="5" type="combatidle"/>
+ <tile id="6" type="combatidle"/>
+ <tile id="7" type="combatidle"/>
+ <tile id="8" type="run"/>
+ <tile id="9" type="run"/>
+ <tile id="10" type="run"/>
+ <tile id="11" type="run"/>
+ <tile id="12" type="run"/>
+ <tile id="13" type="run"/>
+ <tile id="14" type="run"/>
+ <tile id="15" type="run"/>
+ <tile id="16" type="attack"/>
+ <tile id="17" type="attack"/>
+ <tile id="18" type="attack"/>
+ <tile id="19" type="attack"/>
+ <tile id="20" type="attack"/>
+ <tile id="21" type="attack"/>
+ <tile id="22" type="attack"/>
+ <tile id="23" type="attack"/>
+ <tile id="24" type="recover"/>
+ <tile id="25" type="recover"/>
+ <tile id="26" type="recover"/>
+ <tile id="27" type="recover"/>
+ <tile id="28" type="recover"/>
+ <tile id="29" type="recover"/>
+ <tile id="30" type="recover"/>
+ <tile id="31" type="recover"/>
+ <tile id="32" type="hurt"/>
+ <tile id="33" type="hurt"/>
+ <tile id="34" type="hurt"/>
+ <tile id="35" type="jump"/>
+ <tile id="36" type="die"/>
+</tileset>
