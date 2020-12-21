@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="32" height="20" tilewidth="32" tileheight="32" infinite="0" nextlayerid="4" nextobjectid="20">
+<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="32" height="20" tilewidth="32" tileheight="32" infinite="0" nextlayerid="4" nextobjectid="25">
  <tileset firstgid="1" source="pl.tsx"/>
  <tileset firstgid="50" source="trigger.tsx"/>
  <layer id="1" name="blocker" width="32" height="20">
@@ -48,5 +48,8 @@
     <property name="blockers" value="t"/>
    </properties>
   </object>
+  <object id="22" gid="53" x="608" y="608" width="32" height="32"/>
+  <object id="23" gid="53" x="992" y="608" width="32" height="32"/>
+  <object id="24" gid="51" x="704" y="608" width="32" height="32"/>
  </objectgroup>
 </map>

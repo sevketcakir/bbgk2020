@@ -8,7 +8,7 @@ class Trigger(pygame.sprite.Sprite):
     def __init__(self, x, y, w, h, blockers=None):
         pygame.sprite.Sprite.__init__(self)
         self.rect = pygame.Rect(x,y,w,h)
-        self.blockers = blockers
+        self.blockers = blockers # tblr
 
 
 class Block(pygame.sprite.Sprite):
@@ -315,7 +315,7 @@ class Game:
         pygame.mixer.music.set_volume(0.5)
         self.sounds = self.load_sounds()
 
-        pygame.mixer.music.play()
+        pygame.mixer.music.play(loops=-1)
         
     def load_sounds(self):
         soundlist = [('sword1','sword1.ogg'),
