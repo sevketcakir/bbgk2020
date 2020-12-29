@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcc95d6a-c383-4afa-a001-26da5915903c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/flask/anatomy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask/notlar/app/notlar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask/notlar/app/templates/ogrenci.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask/notlar/app/templates/ogrenciekle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pygame/platformer/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame/platformer/game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pygame/platformer/pl2.tmx" beforeDir="false" afterPath="$PROJECT_DIR$/pygame/platformer/pl2.tmx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,27 +20,28 @@
     <session id="924398040">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="19" />
+          <entry key="project.closed" value="22" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.10" value="5" />
+          <entry key="project.open.time.10" value="6" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.6" value="3" />
-          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.7" value="4" />
           <entry key="project.open.time.8" value="4" />
-          <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="21" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="csv" value="3" />
           <entry key="gitignore" value="2" />
+          <entry key="html" value="6" />
           <entry key="jpg" value="2" />
           <entry key="json" value="10" />
           <entry key="md" value="1" />
           <entry key="png" value="16" />
-          <entry key="py" value="65" />
+          <entry key="py" value="69" />
           <entry key="tmx" value="7" />
           <entry key="tsx" value="3" />
           <entry key="txt" value="3" />
@@ -45,11 +50,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="HTML" value="6" />
           <entry key="Image" value="18" />
           <entry key="JSON" value="10" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="18" />
-          <entry key="Python" value="65" />
+          <entry key="Python" value="69" />
           <entry key="XML" value="3" />
         </counts>
       </usages-collector>
@@ -57,67 +63,79 @@
         <counts>
           <entry key="Python Console" value="61" />
           <entry key="gitignore" value="35" />
+          <entry key="html" value="565" />
           <entry key="md" value="137" />
-          <entry key="py" value="17224" />
+          <entry key="py" value="20554" />
           <entry key="txt" value="127" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="HTML" value="565" />
           <entry key="Markdown" value="137" />
           <entry key="PLAIN_TEXT" value="162" />
-          <entry key="Python" value="17285" />
+          <entry key="Python" value="20615" />
         </counts>
       </usages-collector>
     </session>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="kodlar" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sqlalc/cookie.py">
+        <entry file="file://$PROJECT_DIR$/flask/anatomy.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+            <state relative-caret-position="-107">
+              <caret line="2" column="26" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="26" />
               <folding>
-                <element signature="e#0#36#0" expanded="true" />
-                <marker date="1608020018000" expanded="true" signature="1788:2215" ph="..." />
-                <marker date="1608020018000" expanded="true" signature="2235:2274" ph="..." />
+                <marker date="1609153371320" expanded="true" signature="309:381" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pygame/platformer/game.py">
+        <entry file="file://$PROJECT_DIR$/flask/notlar/app/notlar.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="381" column="58" selection-start-line="381" selection-start-column="41" selection-end-line="381" selection-end-column="58" />
+            <state relative-caret-position="307">
+              <caret line="58" column="56" selection-start-line="58" selection-start-column="56" selection-end-line="58" selection-end-column="56" />
               <folding>
-                <element signature="e#0#13#0" expanded="true" />
-                <element signature="e#609#5429#0" />
-                <element signature="e#5393#10899#0" />
+                <element signature="e#0#40#0" expanded="true" />
+                <marker date="1609232183960" expanded="true" signature="462:616" ph="..." />
+                <marker date="1609232183960" expanded="true" signature="788:1023" ph="..." />
+                <marker date="1609232183960" expanded="true" signature="1043:1048" ph="..." />
+                <marker date="1609232183960" expanded="true" signature="1530:1535" ph="..." />
+                <marker date="1609232183960" expanded="true" signature="1704:2090" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pygame/chimp/chimp.py">
+        <entry file="file://$PROJECT_DIR$/flask/notlar/app/templates/ogrenciekle.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
-              <caret line="57" column="29" lean-forward="true" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
+            <state relative-caret-position="240">
+              <caret line="8" column="27" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pygame/platformer/licenses.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="285">
-                <caret line="15" selection-start-line="15" selection-end-line="15" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/flask/notlar/app/templates/ogrenci.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="71" selection-start-line="4" selection-start-column="71" selection-end-line="4" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flask/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="13" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -128,6 +146,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -145,15 +164,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pyqt/ornek2.py" />
-        <option value="$PROJECT_DIR$/pyqt/deneme.py" />
-        <option value="$PROJECT_DIR$/preperation/pyqt/designer.txt" />
-        <option value="$PROJECT_DIR$/preperation/pyqt/form1.py" />
-        <option value="$PROJECT_DIR$/preperation/pyqt/form1ui.py" />
-        <option value="$PROJECT_DIR$/preperation/pyqt/grid.py" />
-        <option value="$PROJECT_DIR$/pyqt/ornek3.py" />
-        <option value="$PROJECT_DIR$/pyqt/hesapla.py" />
-        <option value="$PROJECT_DIR$/pyqt/hesapla1.py" />
         <option value="$PROJECT_DIR$/pyqt/bilesenler.py" />
         <option value="$PROJECT_DIR$/pyqt/listviewornek.py" />
         <option value="$PROJECT_DIR$/pyqt/todo.py" />
@@ -196,6 +206,15 @@
         <option value="$PROJECT_DIR$/pygame/platformer/licenses.md" />
         <option value="$PROJECT_DIR$/pygame/chimp/chimp.py" />
         <option value="$PROJECT_DIR$/pygame/platformer/game.py" />
+        <option value="$PROJECT_DIR$/flask/index.html" />
+        <option value="$PROJECT_DIR$/flask/templates/index.html" />
+        <option value="$PROJECT_DIR$/flask/anatomy.py" />
+        <option value="$PROJECT_DIR$/preperation/flask/login/templates/konu.html" />
+        <option value="$PROJECT_DIR$/preperation/flask/login/templates/konuekle.html" />
+        <option value="$PROJECT_DIR$/preperation/flask/login/models.py" />
+        <option value="$PROJECT_DIR$/flask/notlar/app/templates/ogrenci.html" />
+        <option value="$PROJECT_DIR$/flask/notlar/app/templates/ogrenciekle.html" />
+        <option value="$PROJECT_DIR$/flask/notlar/app/notlar.py" />
       </list>
     </option>
   </component>
@@ -237,18 +256,34 @@
             <path>
               <item name="kodlar" type="b2602c69:ProjectViewProjectNode" />
               <item name="kodlar" type="462c0819:PsiDirectoryNode" />
-              <item name="pygame" type="462c0819:PsiDirectoryNode" />
+              <item name="flask" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kodlar" type="b2602c69:ProjectViewProjectNode" />
               <item name="kodlar" type="462c0819:PsiDirectoryNode" />
-              <item name="pygame" type="462c0819:PsiDirectoryNode" />
-              <item name="chimp" type="462c0819:PsiDirectoryNode" />
+              <item name="flask" type="462c0819:PsiDirectoryNode" />
+              <item name="notlar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kodlar" type="b2602c69:ProjectViewProjectNode" />
               <item name="kodlar" type="462c0819:PsiDirectoryNode" />
-              <item name="sqlalc" type="462c0819:PsiDirectoryNode" />
+              <item name="flask" type="462c0819:PsiDirectoryNode" />
+              <item name="notlar" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kodlar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kodlar" type="462c0819:PsiDirectoryNode" />
+              <item name="flask" type="462c0819:PsiDirectoryNode" />
+              <item name="notlar" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kodlar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kodlar" type="462c0819:PsiDirectoryNode" />
+              <item name="flask" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -258,10 +293,14 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/flask/templates" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/pygame" />
       <recent name="$PROJECT_DIR$/opencv/resources" />
@@ -280,7 +319,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.game">
+  <component name="RunManager" selected="Python.notlar">
+    <configuration name="anatomy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kodlar" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask/anatomy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="chimp" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="kodlar" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -294,27 +354,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pygame/chimp/chimp.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="cookie" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="kodlar" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sqlalchemy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sqlalchemy/cookie.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -344,7 +383,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="kameraoku" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="models" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="kodlar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -352,11 +391,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/opencv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/preperation/flask/login" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opencv/kameraoku.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/preperation/flask/login/models.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -365,7 +404,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tmx" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="notlar" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="kodlar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -373,11 +412,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/preperation/pygame" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask/notlar/app" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/preperation/pygame/tmx.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask/notlar/app/notlar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -387,19 +426,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.tmx" />
-      <item itemvalue="Python.kameraoku" />
-      <item itemvalue="Python.cookie" />
       <item itemvalue="Python.game" />
       <item itemvalue="Python.chimp" />
+      <item itemvalue="Python.anatomy" />
+      <item itemvalue="Python.models" />
+      <item itemvalue="Python.notlar" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.notlar" />
+        <item itemvalue="Python.models" />
+        <item itemvalue="Python.anatomy" />
         <item itemvalue="Python.game" />
         <item itemvalue="Python.chimp" />
-        <item itemvalue="Python.cookie" />
-        <item itemvalue="Python.kameraoku" />
-        <item itemvalue="Python.tmx" />
       </list>
     </recent_temporary>
   </component>
@@ -428,19 +467,19 @@
     <frame x="0" y="23" width="1440" height="811" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49795082" weight="0.13248767" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49791378" visible="true" weight="0.17054264" />
       <window_info id="Structure" order="1" sideWeight="0.5020492" side_tool="true" weight="0.15362932" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Favorites" order="2" sideWeight="0.5020862" side_tool="true" weight="0.17054264" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49964765" weight="0.37552157" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49964765" visible="true" weight="0.37552157" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3838665" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32872927" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.33936024" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5003524" side_tool="true" weight="0.3253012" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3240612" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5003524" side_tool="true" weight="0.3240612" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.5549374" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -482,6 +521,11 @@
           <line>88</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/preperation/flask/login/models.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -495,34 +539,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/opencv/resources/plates/Cars158.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opencv/resources/plates/Cars203.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opencv/resources/plates/Cars331.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file:///usr/local/Cellar/python/3.7.4_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/codecs.py" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/cssselect/parser.py" />
-    <entry file="file://$PROJECT_DIR$/preperation/scrapy/books/b.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opencv/renkalgila.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="13" selection-end-line="37" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/opencv/colorpicker.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -712,28 +728,6 @@
     <entry file="file://$PROJECT_DIR$/pygame/knight.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/sqlalc/cookie.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-            <marker date="1608020018000" expanded="true" signature="1788:2215" ph="..." />
-            <marker date="1608020018000" expanded="true" signature="2235:2274" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pygame/platformer/licenses.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="285">
-            <caret line="15" selection-start-line="15" selection-end-line="15" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pygame/platformer/hero2.tsx">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -748,19 +742,105 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pygame/chimp/chimp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="57" column="29" lean-forward="true" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
+        <state relative-caret-position="1045">
+          <caret line="57" column="29" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pygame/platformer/licenses.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="285">
+            <caret line="15" selection-start-line="15" selection-end-line="15" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pygame/platformer/game.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="381" column="58" selection-start-line="381" selection-start-column="41" selection-end-line="381" selection-end-column="58" />
+        <state relative-caret-position="3952">
+          <caret line="208" column="35" selection-start-line="208" selection-start-column="35" selection-end-line="208" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sqlalc/cookie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="77" column="23" lean-forward="true" selection-start-line="77" selection-start-column="23" selection-end-line="77" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preperation/flask/login/templates/konu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="35" lean-forward="true" selection-start-column="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preperation/flask/login/templates/konuekle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preperation/flask/login/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="20" lean-forward="true" selection-end-line="55" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
-            <element signature="e#609#5429#0" />
-            <element signature="e#5393#10899#0" />
+            <element signature="e#0#40#0" expanded="true" />
+            <marker date="1609228374540" expanded="true" signature="630:1275" ph="..." />
+            <marker date="1609228374540" expanded="true" signature="1187:1192" ph="..." />
+            <marker date="1609228374540" expanded="true" signature="1187:1275" ph="..." />
+            <marker date="1609228374540" expanded="true" signature="1341:1346" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask/notlar/app/templates/ogrenci.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="71" selection-start-line="4" selection-start-column="71" selection-end-line="4" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask/anatomy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-107">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="26" />
+          <folding>
+            <marker date="1609153371320" expanded="true" signature="309:381" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask/notlar/app/templates/ogrenciekle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask/notlar/app/notlar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="58" column="56" selection-start-line="58" selection-start-column="56" selection-end-line="58" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+            <marker date="1609232183960" expanded="true" signature="462:616" ph="..." />
+            <marker date="1609232183960" expanded="true" signature="788:1023" ph="..." />
+            <marker date="1609232183960" expanded="true" signature="1043:1048" ph="..." />
+            <marker date="1609232183960" expanded="true" signature="1530:1535" ph="..." />
+            <marker date="1609232183960" expanded="true" signature="1704:2090" ph="..." />
           </folding>
         </state>
       </provider>
